@@ -53,7 +53,7 @@
   -webkit-backdrop-filter: blur(8px);
 }
 
-/* ==== clerk class override ===== */
+
 
 .cl-userButtonPopoverActionButtonIcon {
   color: white;
@@ -78,7 +78,7 @@
   color: white;
 }
 
-/* =============================== */
+
 
 @layer utilities {
   .flex-center {
@@ -90,7 +90,7 @@
   }
 }
 
-/* animation */
+
 
 .show-block {
   width: 100%;
