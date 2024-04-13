@@ -1325,7 +1325,7 @@ video {
   -webkit-backdrop-filter: blur(8px);
 }
 
-/* ==== clerk class override ===== */
+
 
 .cl-userButtonPopoverActionButtonIcon {
   color: white;
@@ -1350,9 +1350,7 @@ video {
   color: white;
 }
 
-/* =============================== */
 
-/* animation */
 
 .show-block {
   width: 100%;

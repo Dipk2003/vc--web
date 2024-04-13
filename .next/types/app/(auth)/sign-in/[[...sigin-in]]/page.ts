@@ -1,4 +1,4 @@
-// File: C:\Users\Dipanshu pandey\Desktop\zcom\zcooom--web\app\(auth)\sign-in\[[...sigin-in]]\page.tsx
+// File: C:\Users\Dipanshu pandey\Desktop\vc-webapp\app\(auth)\sign-in\[[...sigin-in]]\page.tsx
 import * as entry from '../../../../../../app/(auth)/sign-in/[[...sigin-in]]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
